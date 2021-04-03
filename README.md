@@ -51,3 +51,7 @@
  - xml.
  
  ---
+ 
+ # Print do Aplicativo
+ 
+ <img src="https://github.com/KaduFloresta/Android_App_Noticias/blob/master/app/src/main/res/drawable/print.png"/>
