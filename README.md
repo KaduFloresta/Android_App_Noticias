@@ -27,21 +27,24 @@
 # Android_App_Noticias
 ## Layout utilizando ConstraintLayout. 
 
-1. Alteração da orientação de tela:
+1. Orientação de tela:
  - Portrait
  - Landscape
  - Ambas
  
- 2. Inserção de Imagem:
+2. Inserção de Imagem:
  - Posicionamento.
  - Comportamento.
  - ScaleType.
  
-2. Posionaento dos componentes:
+3. Posionaento dos componentes:
  - Constraint Widget.
    - Wrap Content.
    - Fixed.
    - Match Constraints. 
  - Baseline (text).
+ 
+4. ScrowView
+ - xml.
  
  ---
